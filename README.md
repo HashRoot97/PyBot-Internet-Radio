@@ -3,4 +3,4 @@
 
 ## Screenshot
 
-![Alt text](/screenshots/pic_radio.png?raw=true "Optional Title")
+![Alt text](pic_radio.png?raw=true "Optional Title")
